@@ -290,4 +290,14 @@ export const clients: ClientData[] = [
     milestone: 0,
     contact: ["@ltfschoen:matrix.org", "https://x.com/ltfschoen", "https://t.me/ltfschoen"],
   },
+  {
+    description:
+      "Go Implementation of JAM by rcarback.",
+    homepage: "https://gitlab.com/carback1",
+    name: "goberryjam",
+    lang: "Go",
+    lang_set: "A",
+    milestone: 0,
+    contact: ["@rick:carback.us", "https://x.com/rcarback", "https://carback.us/rick/contact/"],
+  },
 ]
